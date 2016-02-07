@@ -1,2 +1,2 @@
-# spring-boot-admin
-Admin server for spring-boot-workshop
+# Admin server for spring-boot-workshop
+
